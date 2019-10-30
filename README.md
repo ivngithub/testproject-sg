@@ -1,5 +1,5 @@
 # testproject-sg
-git clone https://github.com/ivngithub/testproject-sg.git  
+git clone https://github.com/ivngithub/testproject_sg.git  
 cd testproject-sg  
 pip install sg-0.1.tar.gz  
   
